@@ -1,2 +1,2 @@
 # Attractive-navbar
-Navbar using HTML 5 and CSS3 
+Navbar using HTML 5 and SASS 
